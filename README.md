@@ -19,3 +19,4 @@ Findings:
 I discovered after analysis that Canada has the highest number of product unit sold in the time frame and gross the highest profit.  Paseo has the highest quantity sold among all the products and sold the most in Canada.
 
 Recommendation:
+More focus should be placed on Germany to understand why sales is low in the country
