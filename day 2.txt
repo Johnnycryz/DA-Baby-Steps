@@ -1,0 +1,29 @@
+Day 2
+Topic: Web Scraping
+
+Web scraping is an automated method used to extract large amounts of data from websites.
+The data on the websites are unstructured. Web scraping helps collect these unstructured data and store it in a structured form. There are different ways to scrape websites such as online Services, APIs or writing your own code. In this article, we’ll see how to implement web scraping with python.
+If you ever want to scrape data from a webpage to excel, the easiest option is copy pasting the webpage content. But it’s the best way to do it as the data would not be formatted properly. (The time spent in making the data usable is considerable).
+
+We will dive into Using Excel Web Queries
+
+Excel web queries can scrape web pages easily. Basically it imports web pages as text file into Excel. Let’s see how to use excel web query to scrape web pages to excel.
+
+Step 1: Create a new Workbook.
+
+Step 2: Go to the Data tab on the top. Click on the “Get & Transform Data”section and then go to “From Web”
+
+Step 3: Enter the URL in the "From Web" dialog box.
+
+Step 4: Click "OK" button to load the webpage into the "Navigator" window.
+
+Step 5: Select the table or data you want to scrape by checking the box next to it.
+
+Step 6: Click on the "Load" button to load the selected data into a new worksheet.
+
+Step 7: If needed, repeat the above steps to scrape additional tables or data from the same webpage.
+
+Step 8: To refresh the data, simply right-click on the data in the worksheet and select "Refresh".
+
+source: https://oxylabs.io/blog/web-scraping-excel-web-query
+
